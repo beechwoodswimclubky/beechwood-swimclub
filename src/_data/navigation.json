@@ -1,19 +1,36 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/",
-      "external": false
+      "text": "Membership",
+      "url": "/membership"
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/andy-piccalilli/hylia",
-      "external": true
+      "url": "/pool",
+      "text": "Pool"
     },
     {
-      "text": "Example Contact Page",
+      "text": "Food",
+      "url": "/food"
+    },
+    {
+      "text": "Swim Team",
+      "url": "/swim-team"
+    },
+    {
+      "url": "/food",
+      "text": "Food"
+    },
+    {
+      "url": "/swim-team",
+      "text": "Swim Team"
+    },
+    {
+      "url": "/events",
+      "text": "Events"
+    },
+    {
       "url": "/contact",
-      "external": false
+      "text": "Contact"
     }
   ]
 }
