@@ -2,11 +2,36 @@
   "items": [
     {
       "text": "Membership",
-      "url": "/membership"
+      "url": "/membership",
+      "sub_items": [
+        {
+          "text": "Membership FAQs",
+          "url": "/membership/faqs"
+        },
+        {
+          "url": "/membership/club-amenities",
+          "text": "Club Amenities"
+        },
+        {
+          "url": "https://beechwoodswimclub.freeforums.net/",
+          "text": "Swim Bond Marketplace",
+          "external": true
+        }
+      ]
     },
     {
       "url": "/pool",
-      "text": "Pool"
+      "text": "Pool",
+      "sub_items": [
+        {
+          "url": "/pool/swim-lessons",
+          "text": "Swim Lessons"
+        },
+        {
+          "url": "/pool/rules",
+          "text": "Rules"
+        }
+      ]
     },
     {
       "text": "Food",
@@ -22,7 +47,17 @@
     },
     {
       "url": "/contact",
-      "text": "Contact"
+      "text": "Contact",
+      "sub_items": [
+        {
+          "url": "/contact",
+          "text": "Phone - Info - Directions"
+        },
+        {
+          "url": "/contact/employment",
+          "text": "Employment"
+        }
+      ]
     }
   ]
 }
