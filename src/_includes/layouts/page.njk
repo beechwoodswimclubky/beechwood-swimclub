@@ -11,6 +11,9 @@
         {{ content | safe }}
       </div>
     </article>
+    {% if '/food' in page.url %}
+      {% include "partials/components/menu.njk" %}
+    {% endif %}
   </main>
 {% endblock %}
 
