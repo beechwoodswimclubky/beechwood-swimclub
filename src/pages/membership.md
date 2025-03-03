@@ -10,7 +10,7 @@ permalink: /membership/index.html
  
 ## Hello Members!
 
-2024 Beechwood Swim Club Board of Directors
+2025 Beechwood Swim Club Board of Directors
 
 * Stephanie Bogenschutz Josh Colvin – President
 * John Piccirillo – Vice President
@@ -30,7 +30,7 @@ permalink: /membership/index.html
 <p>Over the past several years, we have made significant investments to maintain the pool, deck, and facilities.  For 2025, the Board has committed to continuing to make improvements to the Club.  Our main focus is the pool and the pump room.  We will continue to make investments that will help our pool last for years to come.  You may have heard of other pools starting to see issues with their pool and older equipment.  We have taken pride in our proactive approach to prevent major issues. The pump breaking last year was the first major repair we have encountered in many years. We feel confident with the proactive repairs we have made over the winter season, that we are set for a successful summer.</p>
  
 <p style="font-weight: bold;">2025 Membership Dues</p>
-
+<p>The 2025 dues below includes the taxes:</p>
 <ul>
     <li>
         <p style="font-weight: bold;">Family - $530</p>
@@ -65,12 +65,7 @@ permalink: /membership/index.html
 <p style="font-weight: bold; text-decoration: underline;">Payment Methods</p>
 <p>We will continue to not accept checks via mail. However, in recognizing that some of our members will still desire to pay by check rather than online, we are providing the opportunity to bring checks to the club on two (2) dates. A board member will be present at the Ft. Mitchell City Building on March 5th, from 4:30-6 p.m. and on March 12th, from 4:30-6 p.m. We will also be at the Swim Club accepting checks April 8th 5:30-7 p.m. and April 15th 5:30-7 p.m. Checks will not be taken after April 15th. Please utilize the online payment function in your Member Splash account.</p>
 
-<ul>
-    <li>March 12th from 5:00 – 6:00pm at the Ft Mitchell City Building.</li>
-    <li>March 15th from 5:00 – 6:00pm at the Ft Mitchell City Building.</li>
-    <li>April 12th from 5:00 – 6:30pm at Beechwood Swim Club.</li>
-    <li>April 15th from 5:00 – 6:30pm at Beechwood Swim Club.</li>
-</ul>
+<p>Making payments through Member Splash will be available starting on February 22nd.</p>
 
 <p style="font-weight: bold; text-decoration: underline;">Payment Deadlines</p>
 <p>The deadlines for payment of 2025 dues are as follows:</p>
@@ -107,8 +102,8 @@ permalink: /membership/index.html
 <p>For our new members who have purchased bonds since last season, your bond must be formally transferred before your account will be active. If you need to transfer bonds, Eric Mooney will be available to meet you at the pool on the following days:</p>
 
 <ul>
-    <li>May 7th from 5–6:30pm at Beechwood Swim Club.</li>
-    <li>May 14th from 5–6:30pm at Beechwood Swim Club.</li>
+    <li>May 7th from 5–6:30 p.m. at Beechwood Swim Club.</li>
+    <li>May 14th from 5–6:30 p.m. at Beechwood Swim Club.</li>
 </ul>
  
 <p style="font-weight: bold; text-decoration: underline;">Member Communication Throughout the Season</p>
@@ -116,18 +111,18 @@ permalink: /membership/index.html
  
 <p style="font-weight: bold; text-decoration: underline;">Important Dates/Events at Beechwood Swim Club</p>
 <ul>
-    <li>May 24th Opening Day 11 a.m.</li>
-    <li>Family Day and Annual Bondholders Meeting – July 20th.</li>
+    <li>May 24th - Opening Day 11 a.m.</li>
+    <li>July 20th - Family Day and Annual Bondholders Meeting.</li>
     <li>
-        <p>Beechwood is hosting the 2025 Northern Kentucky Dive Championship Meet – July 22th.</p>
+        <p>July 22nd - Beechwood is hosting the 2025 Northern Kentucky Dive Championship Meet.</p>
         <ul>
             <li>During the days the pool is closed for the swim meet, members will be allowed to go to other NKSL pools.</li>
             <li>Additional information will be shared as we get closer to the pool season.</li>
         </ul>
     </li>
-    <li>Movie Nights Sat 6/28, 8/16 Movie starts at dusk</li>
+    <li>Movie Nights: Saturday, July 28 & Saturday, August 16. Movie starts at dusk</li>
     <li>Adult Night: July 26th 6-10 p.m.</li>
-    <li>Water Walking: Wednesday June 4th through August 27th 6-6:30 p.m.</li>
+    <li>Water Walking: Wednesday June 4th - August 27th 6-6:30 p.m.</li>
     <li>Bunco: Monday, June 2nd through August 25th 6:30-7:30 p.m.</li>
     <li>Euchre: Sunday, June 8th, July 13th, September 10th 5-7 p.m.</li>
     <li>BINGO: Friday, July 13th, July 18th, August 15th 6:30-7:30 p.m.</li>
