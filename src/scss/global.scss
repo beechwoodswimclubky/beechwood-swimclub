@@ -654,7 +654,7 @@ $clouds: #ecf0f1;
       transition: all 0.4s ease-in-out;
       /* Icon */
       &:hover {
-        background: adjust($midnight, $lightness: -10%);
+        background: $midnight;
         color: white;
       }
       &::after {
@@ -680,7 +680,7 @@ $clouds: #ecf0f1;
       background: $midnight;
       cursor: pointer;
       &:hover {
-        background: adjust($midnight, $lightness: -10%);
+        background: $midnight;
       }
     }
     
@@ -692,7 +692,7 @@ $clouds: #ecf0f1;
     // :checked
     input:checked {
       + .tab-label {
-        background: adjust($midnight, $lightness: -10%);
+        background: $midnight;
         color: white;
         &::after {
           transform: rotate(90deg);
