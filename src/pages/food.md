@@ -2,6 +2,7 @@
 layout: layouts/page.njk
 title: Food
 permalink: /food/index.html
+metaTitle: https://beechwood-swimclub.netlify.app/admin/#/collections/generic_pages
 ---
 ## Snack Shop Menu
 
