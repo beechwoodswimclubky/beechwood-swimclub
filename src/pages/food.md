@@ -6,4 +6,4 @@ metaTitle: https://beechwood-swimclub.netlify.app/admin/#/collections/generic_pa
 ---
 ## Snack Shop Menu
 
-[View Beechwood Swim Club Concession Menu](https://beechwood-swim-club.netlify.app/images/Beechwood-Swim-Club-Menu.pdf)
+[View Beechwood Swim Club Concession Menu](/images/Beechwood-Swim-Club-Menu.pdf)
