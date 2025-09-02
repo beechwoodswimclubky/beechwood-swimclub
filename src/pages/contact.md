@@ -5,7 +5,7 @@ permalink: /contact/index.html
 ---
 **Business Hours**
 
-* **Closed
+* **Closed 
 
 **Mailing Address**
 
