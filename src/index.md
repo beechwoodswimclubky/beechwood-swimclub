@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to the 2025 Swim Season!
+title: Welcome to the 2026 Swim Season!
 metaDesc: Beechwood Swim Club is a private swim club located in the heart of
   Fort Mitchell, KY. With the convenient location and the expansive landscape,
   Beechwood provides a family-friendly atmosphere. We have one of the largest
@@ -13,7 +13,7 @@ membershipDues: >-
   ## Membership Dues
 
 
-  On behalf of the Board of Directors, management and staff welcome to the 2025 Beechwood Swim club Summer Swim Season. As long as the health inspection goes well **we will be opening on Sat, May 24th @ 11:00 a.m.**. Beechwood Swim Club is a non-profit corporation that is operated by a group of volunteers.
+  On behalf of the Board of Directors, management and staff welcome to the 2026 Beechwood Swim club Summer Swim Season. As long as the health inspection goes well **we will be opening on Sat, May 24th @ 11:00 a.m.**. Beechwood Swim Club is a non-profit corporation that is operated by a group of volunteers.
 ---
 [Beechwood Swim Club Application 2025 Season](https://forms.office.com/r/PB14sNfybx).
 
