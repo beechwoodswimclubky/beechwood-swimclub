@@ -19,7 +19,7 @@ permalink: /membership/faqs/index.html
 <input type="radio" id="faq12" name="rd"><label class="tab-label" for="faq12">I'm a New Member. How do I Transer Bonds?</label>
 <div class="tab-content">
 <ol>
-<li>Please email the club to verify the person you are buying from is in good standing (<a href="mailto:beecwhoodswimclubky@gmail.com">beecwhoodswimclubky@gmail.com</a>)</li>
+<li>Please email the club to verify the person you are buying from is in good standing (<a href="mailto:beechwoodswimclubky@gmail.com">beechwoodswimclubky@gmail.com</a>)</li>
 <li>Please email the following information to get added to the pool system: Address, Phone number, All of the name and DOBs on the membership</li>
 <li>We will also need a check for a $50 transfer fee sent to PO Box 10766 Ft Mitchell KY 41017</li>
 <li>Set up time with Treasurer to get Bonds singed over.</li>
